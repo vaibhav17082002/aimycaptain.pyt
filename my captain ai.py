@@ -1,4 +1,4 @@
-haa=int(input("enter range"))
+haa=int(input("enter number required"))
 a=0
 b=1
 print(a)
